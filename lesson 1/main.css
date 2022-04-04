@@ -1,0 +1,19 @@
+img {width: 400px}
+h1 {
+    background: green;
+    color: darkorchid;
+}
+h2 {background: olivedrab;
+    color: darkred;
+
+}
+a {
+    color: cornflowerblue;
+}
+p {
+    background: silver;
+    color: gold  ;
+    text-align: justify;
+}
+ul { background: lightcoral}
+li { background: blue}
