@@ -2,8 +2,8 @@
 //5. Напишіть код, який вираховує площу прямокутника висотою 23см. (змінна height) та шириною 10см (змінна width).
 //Значення площі зберігати в змінній s.
 
-//let height = '23';
-//let widht = '10';
+//let height = 23;
+//let widht = 10;
 //let rectangle = (height * widht);
 //console.log(rectangle);
 
